@@ -6,6 +6,10 @@
     <router-link to="/layout">layout</router-link>
     <router-link to="/container">container</router-link>
     <router-link to="/containerExam">containerExam</router-link>
+    <router-link to="/radio">radio</router-link>
+    <router-link to="/checkBox">checkBox</router-link>
+    <router-link to="/input">input</router-link>
+    <router-link to="/date">date</router-link>
     <router-view/>
   </div>
 </template>
